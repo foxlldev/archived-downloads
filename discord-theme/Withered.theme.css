@@ -1,0 +1,36 @@
+/**
+ * @name Withered
+ * @description A dark and shadowy Discord theme
+ * @author www.withered.app
+ * @version 0.0.3
+ * @authorId 400680342136291329
+ * @invite https://discord.link/withered
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.theme.css
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 131,205,174;
+  --accentcolor2: 255,115,250;
+  --linkcolor: 95,210,255;
+  --mentioncolor: 255,194,92;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: 'DM Sans';
+  --backgroundaccent: 31,31,31;
+  --backgroundprimary: 20,20,20;
+  --backgroundsecondary: 18,18,18;
+  --backgroundsecondaryalt: 12,12,12;
+  --backgroundtertiary: 10,10,10;
+  --backgroundfloating: 0,0,0;
+  --settingsicons: 0;
+}
